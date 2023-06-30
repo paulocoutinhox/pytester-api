@@ -36,10 +36,22 @@ Check the file `tests/api_test.py` for more examples.
 
 # How to use?
 
-You can run:
+Clone the project:
+
+```bash
+git clone https://github.com/paulocoutinhox/pytester-api.git
+cd pytester-api
+```
+
+Install dependencies:
 
 ```bash
 python3 -m pip install -r requirements.txt
+```
+
+Run tests:
+
+```bash
 python3 -m pytest
 ```
 
