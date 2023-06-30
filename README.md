@@ -1,4 +1,6 @@
-# PyTesterApi - Testing Other Systems With Python and PyTest
+# PyTesterApi
+
+[![Build](https://github.com/paulocoutinhox/pytester-api/actions/workflows/build.yml/badge.svg)](https://github.com/paulocoutinhox/pytester-api/actions/workflows/build.yml)
 
 This is a simple python project that uses all the power of PyTest to write tests to check local or external API response.
 
